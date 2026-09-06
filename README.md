@@ -1,5 +1,3 @@
-Docs: https://lioninjectable.pages.dev/
-
 This project is free and open source, and licensed under the GNU General Public License v3 license. You are free to use, modify, and distribute it, provided that any derivative works are also released under the same license.
 
 How to use: Download the release from the releases page, extract the zip, double click the .exe, open your game, click refresh and then click inject. The default clickgui bind is RShift. LionClient currently supports: Vanilla, Forge, Badlion, Lunar. Video guide: https://youtu.be/H-YYx0dQu08
